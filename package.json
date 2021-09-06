@@ -1,0 +1,24 @@
+{
+  "name": "notification",
+  "version": "1.0.0",
+  "description": "Backend for Whatsapp notifications",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/agendaodonto/notification.git"
+  },
+  "keywords": [
+    "agendaodonto",
+    "whatsapp",
+    "notification"
+  ],
+  "author": "André Roggeri Campos",
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/agendaodonto/notification/issues"
+  },
+  "homepage": "https://github.com/agendaodonto/notification#readme"
+}
