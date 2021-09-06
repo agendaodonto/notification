@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/agendaodonto/notification/issues"
   },
-  "homepage": "https://github.com/agendaodonto/notification#readme"
+  "homepage": "https://github.com/agendaodonto/notification#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
